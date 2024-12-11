@@ -6,21 +6,20 @@
 
 * Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network
 
-** Working paper
-*** APA
-Danila Valko and Daniel Kudenko (2023).	Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network. In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023, Cruz, Hayes, Wang, Yates (eds.), May 29-30, 2023, London, UK, https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf`
+** Journal paper
+*** Plain
+Danila Valko and Daniel Kudenko (2024).	Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network. Neural Computing and Applications, https://doi.org/10.1007/s00521-024-10588-2
 *** BibTeX
 #+begin_src bibtex
-@inproceedings{Valko2023,
+@article{ValkoKudenko2024,
 author = {Danila Valko and Daniel Kudenko},
 title = {Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network},
-year = {2023},
-publisher = {Cruz, Hayes, Wang, Yates (eds.)},
-address = {London, UK},
-url = {https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf},
-booktitle = {Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023, May 29-30},
-location = {London, UK},
-series = {ALA 2023}
+journal = {Neural Computing and Applications},
+year = {2024},
+month = {12},
+volume = {},
+pages = {},
+doi = {10.1007/s00521-024-10588-2},
 }
 #+end_src
 
