@@ -8,17 +8,17 @@
 
 ** Journal paper
 *** Plain
-Danila Valko and Daniel Kudenko (2024).	Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network. Neural Computing and Applications, https://doi.org/10.1007/s00521-024-10588-2
+Danila Valko and Daniel Kudenko (2025).	Increasing energy efficiency of bitcoin infrastructure with reinforcement learning and one-shot path planning for the lightning network. Neural Computing and Applications. https://doi.org/10.1007/s00521-024-10588-2
 *** BibTeX
 #+begin_src bibtex
-@article{ValkoKudenko2024,
+@article{ValkoKudenko2025,
 author = {Danila Valko and Daniel Kudenko},
-title = {Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network},
+title = {Increasing energy efficiency of bitcoin infrastructure with reinforcement learning and one-shot path planning for the lightning network},
 journal = {Neural Computing and Applications},
-year = {2024},
-month = {12},
-volume = {},
-pages = {},
+year = {2025},
+month = {8},
+volume = {37},
+pages = {18811-18821},
 doi = {10.1007/s00521-024-10588-2},
 }
 #+end_src
